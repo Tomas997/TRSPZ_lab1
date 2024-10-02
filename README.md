@@ -1,1 +1,0 @@
-# TRSPZ_lab1
