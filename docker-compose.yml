@@ -1,0 +1,6 @@
+services:
+  app:
+    build: .
+    container_name: trspz_lab1
+    ports:
+      - "8080:8080"
